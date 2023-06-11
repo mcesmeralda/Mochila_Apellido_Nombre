@@ -1,0 +1,15 @@
+rta.1: cada lenguaje de programacion requiere de un compilado o interprete
+para traducir el codigo guente a instrucciones ejecutables por la maquina. 
+estos compiladores e interpretes estan diseñados y desarrollados 
+especificamente para un sistema operativo en particular.
+
+
+rta.2: es un software de virtualizacion de codigo abierto desarrollado por 
+oracle proporciona una plataforma para crear y ejecutar maquinas virtuales en
+las cuales se puede instalar y ejecutar  sistemas operativos.
+
+rta.3: si una maquina virtual se rompe o tiene un problema no afectara no
+afectara a las otras maquinas virtuales que estan instaladas en el mismo 
+entorno de virtualizacion.
+
+
